@@ -5,6 +5,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://car-platform-bucket.s3.eu-north-1.amazonaws.com/car-platform-background.jpeg");
+  background-color: #cccccc;
 }
 
 code {
